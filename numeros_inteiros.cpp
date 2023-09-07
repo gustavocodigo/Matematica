@@ -1,7 +1,3 @@
-bool numeroReal(double numero)
-{
-	return true;
-}
 
 
 
